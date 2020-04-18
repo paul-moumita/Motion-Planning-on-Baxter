@@ -5,7 +5,7 @@ Implemented pick and place motion palanning on Baxter robot while avoiding two o
 ![Baxter](/baxter-robot.jpg)
 
 Red block is picked from table1 and placed at table2.
-White block is place from table2 and placed at table1.
+White block is picked from table2 and placed at table1.
 
 ![Gazebo_environment](/Gazebo_environment.jpg)
 
